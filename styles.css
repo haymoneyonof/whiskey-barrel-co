@@ -1,6 +1,5 @@
 
 body {
-  body {
   margin: 0;
   font-family: Arial, sans-serif;
   color: #f5f5f5;
@@ -13,7 +12,6 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-}
 }
 
 header {
@@ -45,7 +43,6 @@ h1 {
 }
 
 .product-image {
-  .product-image {
   width: 100%;
   max-width: 900px;
   height: auto;
