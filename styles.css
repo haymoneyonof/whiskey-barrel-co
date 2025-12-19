@@ -5,7 +5,9 @@ body {
   color: #f5f5f5;
   text-align: center;
 
-  background: transparent;
+  background:
+    linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.85)),
+    url("wildwest.jpg");
 
   background-size: cover;
   background-position: center;
